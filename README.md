@@ -1,5 +1,5 @@
 # ppe_detection
-this code help you detect personnal protection equipment on workers..
+This code help you detect personnal protection equipment on workers..
 
 First, you need to run personn detection to detect persons on your pictures, and crop the picture on one person by picture
 
